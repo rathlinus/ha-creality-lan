@@ -1,0 +1,7 @@
+{
+  "name": "Creality LAN",
+  "content_in_root": false,
+  "domains": ["creality_lan"],
+  "homeassistant": "2023.9.0",
+  "render_readme": true
+}
